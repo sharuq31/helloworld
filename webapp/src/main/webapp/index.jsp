@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Simple POC demo DevOps Project !! Sharuq </h1>
+<h1> Hello, Welcome to Simple POC DevOps Project !! Sharuq </h1>
 
